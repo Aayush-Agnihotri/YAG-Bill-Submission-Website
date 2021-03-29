@@ -1,0 +1,12 @@
+.border {
+    border: thin solid black;
+    padding: 20px;
+}
+
+button {
+    padding-bottom: 20px;
+}
+
+.link1 {
+    padding-top: 30px;
+}
